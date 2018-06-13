@@ -1,0 +1,16 @@
+/* TAGS */
+input.ng-invalid.ng-touched {
+    border: 1px solid #ff3f34;
+}
+
+span {
+    padding-left: 10px;
+    color: #ff3f34;  
+}
+
+/* CLASS */
+.container {
+    margin: 25px;
+}
+
+/* ID */
